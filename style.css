@@ -1,0 +1,33 @@
+.form {
+    width: 520px;
+    margin-top: 25px;
+    padding: 25px;
+    text-align: center;
+    border: cadetblue 5px solid;
+    background-color: #1d53b26b;
+}
+
+label {
+    padding: 10px;
+}
+
+.form-check-input {
+    margin-left: -45px
+}
+
+input[type='submit'] {
+    display: block;
+}
+
+input[type='text'] {
+    margin-bottom: 20px;
+}
+
+input::placeholder {
+    text-align: center;
+    color: blueviolet;
+}
+
+h4 {
+    margin: 10px;
+}
